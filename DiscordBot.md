@@ -8,7 +8,9 @@
 ### Comandos JavaScript
 
 const discord = require(discord.js);
+
 const client = Client.Discord();
+
 const TOKEN = "";
 
 client.on(TOKEN);
