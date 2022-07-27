@@ -1,2 +1,5 @@
 # Linux 
-linux sy
+
+### Comandos terminal
+
+- pwd
